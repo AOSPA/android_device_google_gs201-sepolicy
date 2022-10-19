@@ -13,8 +13,14 @@ SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += device/google/gs201-sepolicy/system_ext/priv
 #
 # Pixel-wide
 #
+#   Battery
+BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/googlebattery
+
 # Dauntless sepolicy (b/199685763)
 BOARD_SEPOLICY_DIRS += device/google/gs201-sepolicy/dauntless
+
+# Input
+BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/input
 
 #   PowerStats HAL
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/powerstats
