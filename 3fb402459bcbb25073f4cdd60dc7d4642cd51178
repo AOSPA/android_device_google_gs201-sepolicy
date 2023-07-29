@@ -16,6 +16,24 @@
       "message": "you don\u0027t need { } if there\u0027s only one permission being allowed.  also, is find enough?",
       "revId": "3fb402459bcbb25073f4cdd60dc7d4642cd51178",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9e75ad22_4792c324",
+        "filename": "whitechapel_pro/radio.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000896
+      },
+      "writtenOn": "2023-07-29T15:23:05Z",
+      "side": 1,
+      "message": "yes find is actually enough. and I\u0027ll remove the {}.",
+      "parentUuid": "fd6292cc_ec860372",
+      "revId": "3fb402459bcbb25073f4cdd60dc7d4642cd51178",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
