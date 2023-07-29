@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd6292cc_ec860372",
+        "filename": "whitechapel_pro/radio.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-07-29T14:48:33Z",
+      "side": 1,
+      "message": "you don\u0027t need { } if there\u0027s only one permission being allowed.  also, is find enough?",
+      "revId": "3fb402459bcbb25073f4cdd60dc7d4642cd51178",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
